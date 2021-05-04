@@ -12,8 +12,8 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
-  background-size: cover;
+  background: #040404 url("../img/Clean\ Work\ Place\ LinkedIn\ Banner\ \(4\).png") center no-repeat;
+  background-size: contain;
   left: 0;
   right: 0;
   top: 0;
